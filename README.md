@@ -1,2 +1,2 @@
 # Alarma
-sistema notificador para puerta
+sistema notificador para puerta, en este proyecto se realizo un pequeño programa en arduino, lo usaremos para hacer funcionar un sensor infrarojo el cual hara la funcion de una puerta que se notifica si alguien entra, al interrumpir la señal este sonara y encendera un led que demuestra el bajo consumo de energia, ya que cuando se prende este, enciende con un intensidad fuerte, pusimos otro led que muestra el bajo consumo de este ya que es una luz muy tenue la cual verifica que el sensor este energizado.
